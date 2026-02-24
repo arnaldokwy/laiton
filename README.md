@@ -1,1 +1,1 @@
-[# laiton](https://arnaldokwy.github.io/laiton/)
+https://arnaldokwy.github.io/laiton/
