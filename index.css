@@ -1,1 +1,16 @@
-
+h1{ 
+colar: blue;
+background_color: yellow;
+}
+h2{
+color:red;
+background: gray;
+}
+h3{
+color: yellow;
+background-color: brown;
+}
+p{
+color:gray;
+background-color: magente;
+}
